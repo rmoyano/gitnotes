@@ -9,16 +9,15 @@ sistemas operativos, etc.
 
 ## Cómo contribuir:
 
-    1. Leer la [**Guía de contribución**] (https://github.com/rmoyano/gitnotes/master/CONTRIBUIR.md)
-    Leer la [**Guía de contribución**] (CONTRIBUIR.md)
-    2. Revisar los [**Asuntos existentes**] o crea tus propios. (https://github.com/rmoyano/gitnotes/issues)
+    1. Leer la [**Guía de contribución**](CONTRIBUIR.md)
+    2. Revisar los [**Asuntos existentes**](https://github.com/rmoyano/gitnotes/issues) o crea tus propios asuntos. 
     3. Espera por el asunto para que te sea asignado para empezar a trabajar en él.
     4. Bifurca el repositorio y crea una *rama* para el *Asunto* que te asignaron.
-    5. Crea un Pull Request, el cual será revisado apropiadamente y en caso de ser necesario se agregarán sugerencias para su mejora.
+    5. Crea un *Pull Request*, el cual será revisado apropiadamente y en caso de ser necesario se agregarán sugerencias para su mejora.
     
 ## Licencia:
  
- * La licencia es [**Creative Commons CC BY-NC-SA**].(https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+ * La licencia es [**Creative Commons CC BY-NC-SA.**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ## Autor: 
 
