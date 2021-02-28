@@ -3,13 +3,13 @@ Mis notas mientras aprendo GIT, voy a ir escribiendo y agregando contenido en la
 
 ## Audiencia:
 
-Está pensado para aquel que quiera aprender el sistema de control de versiones GIT de cero, con una base de conocimiento sobre programación, 
+Está pensado para aquel que quiera aprender el sistema de control de versiones GIT de cero, y que posea una base de conocimiento sobre programación, 
 sistemas operativos, etc.
 
 
 ## Cómo contribuir:
 
-    1. Leer la [**Guía de contribución**](CONTRIBUIR.md)
+    1. Leer la [**Guía de contribución**](./CONTRIBUIR.md)
     2. Revisar los [**Asuntos existentes**](https://github.com/rmoyano/gitnotes/issues) o crea tus propios asuntos. 
     3. Espera por el asunto para que te sea asignado para empezar a trabajar en él.
     4. Bifurca el repositorio y crea una *rama* para el *Asunto* que te asignaron.
