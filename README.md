@@ -9,11 +9,11 @@ sistemas operativos, etc.
 
 ## Cómo contribuir:
 
-    1. Leer la [**Guia de contribucion**][1].
-    2. Revisar los [**Asuntos existentes**][2] o crea tus propios *Asuntos*. 
-    3. Espera por el *Asunto* para que te sea asignado para empezar a trabajar en él.
-    4. Bifurca el repositorio y crea una *rama* para el *Asunto* que te asignaron.
-    5. Crea un *Pull Request*, el cual será revisado apropiadamente y en caso de ser necesario se agregarán sugerencias para su mejora.
+1. Leer la [**Guia de contribución**][1].
+2. Revisar los [**Asuntos existentes**][2] o crea tus propios *Asuntos*. 
+3. Espera que el *Asunto* te sea asignado para poder empezar a trabajar en él.
+4. Bifurca el repositorio y crea una *rama* para el *Asunto* asignado.
+5. Crea un *Pull Request*, el cual será revisado apropiadamente y en caso de ser necesario se agregarán sugerencias para su mejora.
     
 ## Licencia:
  
@@ -25,8 +25,7 @@ sistemas operativos, etc.
 
 ## Descargo de responsabilidad:
 
- * Use la información bajo su propio riesgo y responsabilidad. La intención de esta guía es servir de ayuda con GIT, sólo porque me funcione a mí, 
-no significa que va a funcionar en su computadora.
+ * Use la información bajo su propio riesgo y responsabilidad. La intención de esta guía es servir de ayuda con GIT, sólo porque me funcione a mí, no significa que va a funcionar en su computadora.
 
 [1]: https://github.com/rmoyano/gitnotes/CONTRIBUIR.md
-[2]: https://github.com/rmoyano/gitnotes/issues)
+[2]: https://github.com/rmoyano/gitnotes/issues
