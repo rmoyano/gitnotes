@@ -2,7 +2,6 @@
 
 Brief notes about branches.
 
-
 1. Create a new branch called *test*: 
 ```shell
 user@debian:~/gitnotes$ git branch test
@@ -40,7 +39,7 @@ user@debian:~/gitnotes$ git branch -a
   remotes/origin/HEAD -> origin/main
   remotes/origin/main
 ```
-6. After you completed a feature, you will need to delete that branch:
+6. After you completed a feature, it's a good practice to delete that branch:
 ```shell
 user@debian:~/gitnotes$ git branch -d feature2
 Deleted branch feature2 (was f0d44a7).
