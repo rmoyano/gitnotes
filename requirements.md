@@ -8,13 +8,12 @@ In order to use this guide they will need to use a console and install the follo
 Use your favorite package manager (APT for Debian):
 ```shell
 rafa@debian:~/home/proyect$ apt-get install git 
-git version 2.20.1
 ```
 
 Verify that it was successfully installed with this command:
 ```shell
-rafa@debian:~/home/proyect$ git --version 
-git version 2.20.1
+rafa@debian:~/home/proyect$ git version 
+git version 2.34.1
 ```
 
 ### Windows:
@@ -26,4 +25,4 @@ I suggest one of the following:
 * [**VI/VIM.**](https://www.vim.org/download.php)
 * [**VS Code.**](https://vscodium.com/#install)
 * [**Geany.**](https://www.geany.org/download/releases/)
-* [**Atom.**](https://github.com/atom/atom/releases/)
+* [**Zed editor.**](https://zed.dev/)
