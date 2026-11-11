@@ -13,7 +13,7 @@ rafa@debian:~/home/proyect$ sudo apt update && apt install git
 Verify that it was successfully installed with this command:
 ```shell
 rafa@debian:~/home/proyect$ git version 
-git version 2.34.1
+git version 2.47.3
 ```
 
 ### Windows:

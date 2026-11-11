@@ -42,6 +42,33 @@ Untracked files:
 user@debian:~/gitnotes$ git add README.md
 ```
 
+If you have multiple files to add:
+```
+user@debian~/gitnotes (main)> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   initial-repo.md
+	modified:   requirements.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+rafa@t16 ~/r/gitnotes (main)> git add .
+rafa@t16 ~/r/gitnotes (main)> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   initial-repo.md
+	modified:   requirements.md
+
+rafa@t16 ~/r/gitnotes (main)> git commit -m 'Some files were modified.'
+[main 4de7b7b] Some files were modified.
+```
+
 5. Commit file:
 ```shell
 user@debian:~/gitnotes$ git commit -m 'Readme file created.'
