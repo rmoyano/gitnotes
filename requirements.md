@@ -1,13 +1,13 @@
 # Requirements 🔧
 
-In order to use this guide they will need to use a console and install the following software:
+In order to follow this guide they will need to use a console and install the following software:
 
 ## 1) GIT.
 
 ### Linux/BSD/Mac:
 Use your favorite package manager (APT for Debian):
 ```shell
-rafa@debian:~/home/proyect$ apt-get install git 
+rafa@debian:~/home/proyect$ sudo apt update && apt install git 
 ```
 
 Verify that it was successfully installed with this command:

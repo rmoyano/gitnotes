@@ -1,6 +1,6 @@
 # Create an initial repository
 
-Brief notes about branches.
+How to create an initial repo:
 
 1. Initialize the repository and set the new default branch as `main`:
 ```shell
@@ -8,7 +8,7 @@ user@debian:~/gitnotes$ git init -b main
 Initialized empty Git repository in /home/user/gitnotes/.git/
 ```
 
-2. Add user name and e-mail account for a single repository:
+2. Setup user name and e-mail account for a single repository:
 ```shell
 user@debian:~/gitnotes$ git config user.name "Rafael Moyano"
 git config user.email "rafa@gmail.com"
@@ -29,7 +29,7 @@ origin	git@github.com:rmoyano/horarios.git (fetch)
 origin	git@github.com:rmoyano/horarios.git (push)
 ```
 
-4. Add file to stage:
+4. Add file to `stage`:
 ```shell
 user@debian:~/gitnotes$ git status
 On branch main
@@ -44,7 +44,7 @@ user@debian:~/gitnotes$ git add README.md
 
 5. Commit file:
 ```shell
-user@debian:~/gitnotes$ git commit -m 'Readme file created'
+user@debian:~/gitnotes$ git commit -m 'Readme file created.'
 [main (root-commit) dfa32b6] Readme file created
  1 file changed, 33 insertions(+)
  create mode 100644 README.md
